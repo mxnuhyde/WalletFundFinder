@@ -1,0 +1,5 @@
+CRYPTOLOCK API
+
+etherscan = UWDJSIAVGY1HVSMHCMHG17GBYJ4VGXIF4G - https://api.etherscan.io
+bscscan = G8QYH4BRYYTZUNFBIICHP85HGCG1N5CK2B - https://api.bscscan.com
+polygonscan = VWMDKKBPBSK7GYMTXY8BUUNWS1KCB9W27H - https://api.polygonscan.com

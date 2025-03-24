@@ -1,0 +1,29 @@
+{
+  "name" : "cryptolock",
+  "version": "1.0.0",
+  "description": "Crypto Bruteforce",
+  "main": "CryptoLock_fake.js",
+  "bin": {
+    "cryptolock": "./CryptoLock_fake.js"
+  },
+  "scripts": {
+    "start": "node CryptoLock_fake.js"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "@infura/sdk": "^2.4.3",
+    "alchemy-sdk": "^2.9.2",
+    "axios": "^1.6.7",
+    "bip39": "^3.1.0",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "ethers": "^5.7.2",
+    "figlet": "^1.7.0",
+    "googleapis": "^105.0.0",
+    "lodash": "^4.17.21",
+    "lodash.permutations": "^1.0.0",
+    "moralis": "^2.25.2",
+    "puppeteer": "^21.9.0",
+    "web3": "^4.3.0"
+  }
+}
