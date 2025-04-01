@@ -14,7 +14,7 @@ This script is designed to generate random Ethereum, Binance Smart Chain (BSC), 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/Wallet-Fund-Finder.git
+git clone [https://github.com/yourusername/Wallet-Fund-Finder.git](https://github.com/mxnuhyde/WalletFundFinder.git)
 ```
 2. Navigate to the repository directory:
 ```bash
